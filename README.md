@@ -1,14 +1,14 @@
 # refinery-planning-benchmark
 This repository provides a Python implementation of a production planning benchmark based on real-world refinery-petrochemical complex data. The original repository is
-https://github.com/EMRPS/refinery-planning-benchmark. In the original repository, computational results were obtained from global optimization solvers ANTIGONE and BARON. However, since ANTIGONE and BARON require paid licenses, this repository solves the problem using free solvers. This repository contains three types of problems as described below.
+[here](https://github.com/EMRPS/refinery-planning-benchmark). In the original repository, computational results were obtained from global optimization solvers ANTIGONE and BARON. However, since ANTIGONE and BARON require paid licenses, this repository solves the problem using free solvers. This repository contains three types of problems as described below.
 
 ## Repository structure
 ```
 .
 ├── README.md # Repository overview and structure
-├── case1 # parameters, and computational results for case 1
-├── case2 # For case 2
-└── case3 # For case 3
+├── case1 # Problem data, parameters, and computational results for case 1
+├── case2 # Problem data, parameters, and computational results for case 2
+└── case3 # Problem data, parameters, and computational results for case 3
 ```
 
 ## Case 1
